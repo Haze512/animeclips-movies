@@ -2,7 +2,7 @@ import axios from "axios";
 import * as cheerio from "cheerio";
 import { ANIME } from "../../utils/types";
 
-const BASE_URL = "https://aniwatch.to";
+const BASE_URL = "https://aniwatchtv.cc/";
 
 const aniwatch = {
   name: "aniwatch",
